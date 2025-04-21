@@ -78,3 +78,11 @@ An e-learning platform must have an easily accessible support system to guide us
 
 Conclusion
 The e-learning platform UI serves as the foundation for an engaging and successful online learning experience. It should combine clear navigation, personalized features, and visually appealing design with interactive and user-friendly elements. A well-designed UI enhances usability, making learning more enjoyable, efficient, and productive for students. With responsive layouts, intuitive controls, and seamless integration of various multimedia and educational tools, the UI plays a crucial role in the success of an e-learning platform.
+
+OUTPUT: 
+![Image](https://github.com/user-attachments/assets/2579821a-ec09-4f44-9482-11e7451e0059)
+![Image](https://github.com/user-attachments/assets/07b8e769-c69c-42b6-8375-5522b734dcd4)
+
+![Image](https://github.com/user-attachments/assets/bf8d0ff2-9d4c-44d5-81c6-87f02d7fdb72)
+
+![Image](https://github.com/user-attachments/assets/1f4f201d-e484-4220-8de3-0bc72ea0fac1)
